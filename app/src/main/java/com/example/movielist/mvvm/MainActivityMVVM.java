@@ -19,7 +19,7 @@ import com.example.movielist.mvc.ListMovieAdapter;
 import com.example.movielist.mvc.MainActivity;
 import com.example.movielist.mvp.MainActivityMVP;
 
-public class MainActivityMVVM extends AppCompatActivity { // sebagai View
+public class MainActivityMVVM extends AppCompatActivity { // View
 
     private MainViewModel mainViewModel;
     private RecyclerView rv1;
